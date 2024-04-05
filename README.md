@@ -1,5 +1,5 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jazziki17.visitor-badge&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jazziki17.jazziki17" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jazz!;" />
