@@ -13,7 +13,7 @@
  
  🔭 I’m a student at Fontys University
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Python, PostgreSQL, JAVA**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
