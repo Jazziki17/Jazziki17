@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/Jazziki17/Jazziki17/blob/output/github-contribution-grid-snake.gif)
+  <a href = "https://github.com/Jazziki17/Jazziki17/blob/output/github-contribution-grid-snake.gif">
   
   <br/><br/><br/>
 </div>
