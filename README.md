@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <a href = "https://github.com/Jazziki17/Jazziki17/blob/output/github-contribution-grid-snake.gif">
+  <img alt="snake eating my contributions" src="https://github.com/Jazziki17/Jazziki17/blob/output/github-contribution-grid-snake.gif" />
   
   <br/><br/><br/>
 </div>
@@ -68,8 +68,9 @@
 
 <br/>
 
+![snake gif](https://github.com/Jazziki17/Jazziki17/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
 <br/>
